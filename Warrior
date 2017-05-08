@@ -1,1 +1,9 @@
+class Warrior {
 
+	// Variables
+	int hp;
+	int maxHP;
+	int atk;
+	
+	
+}
